@@ -3,3 +3,5 @@
 !README.md
 !bin
 !bin/*
+!bin/**/
+!bin/**/*
