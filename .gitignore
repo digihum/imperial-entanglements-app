@@ -1,6 +1,7 @@
 *
 !.gitignore
 !README.md
+!dist
 !dist/bin
 !dist/bin/*
 !dist/bin/**/
